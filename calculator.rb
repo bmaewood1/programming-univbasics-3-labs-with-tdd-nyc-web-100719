@@ -9,4 +9,4 @@ describe "./calculator.rb" do
   end
   
 
-def first_number()
+def get_variable_from_file
