@@ -1,7 +1,7 @@
 # Add your variables here
 
 def first_number(number)
-  puts 
+  puts number
 end
 
 def get_variable_from_file
